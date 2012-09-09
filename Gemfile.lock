@@ -172,15 +172,15 @@ PLATFORMS
 DEPENDENCIES
   cancan
   carrierwave
-  coffee-rails (~> 3.1)
-  devise (~> 1.4)
+  coffee-rails
+  devise
   dragonfly
   mini_magick
-  mlb (~> 0.5)
-  paperclip (~> 2.4)
+  mlb
+  paperclip
   pg
-  rails (~> 3.1)
+  rails
   rails_admin!
-  sass-rails (~> 3.1)
+  sass-rails
   sqlite3
-  uglifier (~> 1.0)
+  uglifier
